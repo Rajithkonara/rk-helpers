@@ -34,7 +34,8 @@ $ tar -xvf product.v1.tar onefile.md
 ```sh
 $ tar -zxvf product.v1.tar onefile.md
 ```
-- Options 
+- Options
+ 
 > c – Creates a new .tar archive file.
 
 > v – Verbosely show the .tar file progress.

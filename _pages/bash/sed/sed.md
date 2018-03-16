@@ -31,3 +31,13 @@ Finally, it can be useful while inspecting scripts or configuration files to ins
  ```sh
  sed '/^#\|^$/d' apache2.conf
  ```
+#### Common
+
+- Replace a string 
+ ```sh
+$ sed -i 's/STRING_TO_REPLACE/STRING_TO_REPLACE_IT/g' filename
+ ```
+- Remove new line
+ ```sh
+ $ sed '1{/^ *$/d}' filename >> newfilename
+ ```

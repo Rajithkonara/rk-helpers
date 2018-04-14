@@ -20,6 +20,10 @@ $ docker inspect <friendly-name|container-id>
 ```bash
 $ docker logs <friendly-name|container-id>
 ```
+`Tail Logs`
+```bash
+$ docker logs --follow <friendly-name|container-id>
+```
 `Accessing container`
 ```bash
 $ docker run -d --name redisHostPort -p 6379:6379 redis:latest

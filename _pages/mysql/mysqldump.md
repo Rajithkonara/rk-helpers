@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-`mqldump -uroot -psecret sandbox > sandbox.sql
+`mysqldump -uroot -psecret sandbox > sandbox.sql
 `

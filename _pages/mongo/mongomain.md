@@ -2,4 +2,5 @@
 layout: default
 ---
 
-- [Mongo Basic](mongo_basic)
+- [Mongo Basic](mongo-basic)
+

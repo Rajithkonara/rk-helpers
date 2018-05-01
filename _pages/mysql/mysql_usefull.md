@@ -31,3 +31,8 @@ DROP PROCEDURE IF EXISTS procedureName;
 ```sh
 show create procedure procedureName;
 ```
+- Show lower_case table name status
+```sh
+show variables where Variable_name='lower_case_table_names';
+```
+

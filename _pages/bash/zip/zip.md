@@ -34,6 +34,15 @@ $ tar -xvf product.v1.tar onefile.md
 ```sh
 $ tar -zxvf product.v1.tar onefile.md
 ```
+- Compress using bzip2
+```sh
+$ bzip2 filename
+```
+- Decompress using bzip2
+```sh
+$ bzip2 -d filename.bz2
+```
+
 - Options
  
 > c – Creates a new .tar archive file.

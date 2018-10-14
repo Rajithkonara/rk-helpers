@@ -35,4 +35,13 @@ show create procedure procedureName;
 ```sh
 show variables where Variable_name='lower_case_table_names';
 ```
+- FOREIGN key check
+```sh
+SHOW VARIABLES LIKE 'foreign_key_checks'
+```
+- Set FOREIGN key check
+```sh
+SET FOREIGN_KEY_CHECKS=1;
+```
+
 

@@ -9,3 +9,4 @@ overview: true
 - [Change a commit message](changing_a_commit_mgs)
 - [tag](tag)
 - [remove untrack files](remove_untrack_files)
+- [cheatsheet](cheatsheet-blog)

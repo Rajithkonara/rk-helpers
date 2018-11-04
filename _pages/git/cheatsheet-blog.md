@@ -3,6 +3,7 @@ layout: default
 ---
 Configurations
 ---------------------
+
 |Description                    | Command                                           |
 |---                            |---                                                |
 |Show git configs               |  `git config --list`                              |
@@ -13,6 +14,7 @@ Configurations
 
 Remotes
 ---------------------
+
 |Description                    | Command                                           |
 |---                            |---                                                |
 |List remotes                   |  `git remote -v`                                  |
@@ -22,6 +24,7 @@ Remotes
 
 Commit
 ---------------------
+
 |Description                    | Command                                           |
 |---                            |---                                                |
 |Check Untracked Files          |  `git status`                                     |
@@ -35,6 +38,7 @@ Commit
 
 Branch
 ---------------------
+
 |Description                    | Command                                           |
 |---                            |---                                                |
 |Show current branch            |  `git branch`                                     |
@@ -47,6 +51,7 @@ Branch
 
 Diff
 ---------------------
+
 |Description                    | Command                                           |
 |---                            |---                                                |
 |Git diff file                  |  `git diff $filename`                             |
@@ -57,6 +62,7 @@ Diff
 
 Log
 ---------------------
+
 |Description                    | Command                                           |
 |---                            |---                                                |
 |Git log                        |  `git log --oneline`                              |
@@ -65,6 +71,7 @@ Log
 
 Tag
 ---------------------
+
 |Description                    | Command                                           |
 |---                            |---                                                |
 |List tags                      |  `git ls-remote --tags`                           |
@@ -77,6 +84,7 @@ Tag
 
 Clear
 ---------------------
+
 |Description                    | Command                                           |
 |---                            |---                                                |
 |View what files will delete    |  `git clean -n`                                   |

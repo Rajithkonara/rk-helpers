@@ -2,4 +2,4 @@
 layout: default
 ---
 
-- [Basic](orbs)
+- [Basic](basics)
